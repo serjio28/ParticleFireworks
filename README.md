@@ -7,4 +7,4 @@ JavaScript, JQuery and HTML5 canvas element. To change the amount of spawns flyi
 Please find the detailed explanation of the program at:
 http://www.sfilippov.com/simulation_particle_fireworks.html
 
-updated through Appception
+updated through Appception, by 14 October
