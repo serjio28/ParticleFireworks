@@ -8,3 +8,4 @@ Please find the detailed explanation of the program at:
 http://www.sfilippov.com/simulation_particle_fireworks.html
 
 updated through Appception, by 14 October
+update by 17 October 2013
